@@ -1,2 +1,2 @@
 # hello-world
-Tutorial rep
+This is insanity.
